@@ -1,0 +1,37 @@
+Create a full stack authentication project using React and FastAPI.
+Requirements:
+
+Frontend:
+- Use React with Vite
+- Create responsive Login and Signup pages
+- Mobile friendly design
+- Use TailwindCSS or modern CSS
+- Validate email and password fields
+- Call backend APIs using axios
+- Store JWT token in localStorage
+- Show error messages
+
+Backend:
+- Use Python FastAPI
+- Implement authentication APIs
+
+Features:
+- Password hashing using bcrypt
+- JWT authentication
+- Input validation using Pydantic
+- CORS enabled
+
+Database:
+- Use PostgreSQL (important because project will be deployed on Render)
+- Use SQLAlchemy ORM
+
+Project structure:
+frontend (React)
+backend (FastAPI)
+
+Also provide:
+- full folder structure
+- full backend code
+- full frontend code
+- environment variables setup
+- instructions to deploy on Render
